@@ -3,7 +3,7 @@
   background-image: url('https://images8.alphacoders.com/719/719571.jpg');
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 100%;
   background-repeat: no-repeat;
   margin: 0;
 }
@@ -13,7 +13,7 @@
   background-image: url('https://i.pinimg.com/736x/64/32/3d/64323de6fb3b1faec2d24d0d974fc542.jpg');
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 100%;
   background-repeat: no-repeat;
   margin: 0;
 }
@@ -23,7 +23,7 @@
   background-image: url('https://dewikandri.com/wp-content/uploads/2024/08/026711100_1581744986-pantai_ora.webp');
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 100%;
   background-repeat: no-repeat;
   margin: 0;
 }
@@ -33,7 +33,7 @@
   background-image: url('https://i.pinimg.com/736x/27/76/7e/27767e52c1c67d541bf475e365ffe998.jpg');
   background-size: cover;
   background-position: center;
-  height: 100vh;
+  height: 100%;
   background-repeat: no-repeat;
   margin: 0;
 }
@@ -175,4 +175,5 @@ div.desc {
   font-size: 35px;
 
 }
+
 
