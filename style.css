@@ -95,7 +95,7 @@ header {
 }
 
 .container-opacity {
-  width: 650px;
+  width: 100%;
   height: auto;
   background-color: white;
   opacity: 0.7;
@@ -114,6 +114,7 @@ footer {
   padding: 5px;
   text-align: center;
   font-size: 20px;
+  width: 100%;
 }
 
 .custom-link {
@@ -172,4 +173,5 @@ div.desc {
 #TittleN {
   text-align: center;
   font-size: 35px;
+
 }
